@@ -1,7 +1,7 @@
 ![counter](https://enzuieebp3gfvf4.m.pipedream.net)
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center"><a href="www.linkedin.com/in/sandrinezoccadev">• Linkedin •<a><p>
+<p align="center"><a href="https://www.linkedin.com/in/sandrinezoccadev">• Linkedin •<a><p>
 
 ## 🎓 [My learning tracker](https://github.com/sandix34/Mon-traqueur-d-apprentissage)
 

@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/sandrinezoccadev">• Linkedin •<a><p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sandix34&repo=My-learning-tracker&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sandix34&repo=My-learning-tracker&theme=blue-green)](https://github.com/sandix34/My-learning-tracker)
 
 ## 🌱 I’m currently learning ...
 

@@ -14,6 +14,8 @@
 
 #### - 👨🏻‍💻 I'm looking to collaborate on Open source project
 
+#### - 📒 I’m currently reading [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
+
 #### - 👨🏻‍💻 Mostly Used Languages and Tools :
 
 <p>

@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/-VsCode-1572B6?style=flat-square&logo=Visual-Studio-Code&logoColor=white?)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 
 <br/>

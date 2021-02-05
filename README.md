@@ -10,18 +10,19 @@
 
 #### - 🔭 I’m currently working on JavaScript
 
-#### - 🌱 I’m currently learning : Data Structures And Algorithms
+#### - 🌱 I’m currently learning : Angular
 
 #### - 👨🏻‍💻 I'm looking to collaborate on Open source project
 
-#### - 📒 I’m currently reading [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
+#### - 📒 I’m currently reading : [Angular in Action](https://www.manning.com/books/angular-in-action?query=angular)
 
 #### - 👨🏻‍💻 Mostly Used Languages and Tools :
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?style=flat-square&logo=TypeScript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/-VsCode-1572B6?style=flat-square&logo=Visual-Studio-Code&logoColor=white?)

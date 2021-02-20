@@ -6,13 +6,9 @@
 
 <br/>
 
-#### - 🎓 I am a self-trained junior
-
-#### - 🔭 I’m currently working on JavaScript
+#### - 🎓 Student at [Studi Digital Campus](https://www.studi.fr/formation/code-developpement/graduate-developpeur-angular)
 
 #### - 🌱 I’m currently learning : Angular
-
-#### - 👨🏻‍💻 I'm looking to collaborate on Open source project
 
 #### - 📒 I’m currently reading : [Angular in Action](https://www.manning.com/books/angular-in-action?query=angular)
 

@@ -8,10 +8,6 @@
 
 #### - 🎓 Student at [Studi Digital Campus](https://www.studi.fr/formation/code-developpement/graduate-developpeur-angular)
 
-#### - 🌱 I’m currently learning : Angular
-
-#### - 📒 I’m currently reading : [Angular in Action](https://www.manning.com/books/angular-in-action?query=angular)
-
 #### - 👨🏻‍💻 Mostly Used Languages and Tools :
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

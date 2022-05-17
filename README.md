@@ -22,9 +22,8 @@
 
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sandix34&repo=My-learning-tracker&theme=buefy)](https://github.com/sandix34/My-learning-tracker)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandix34&theme=solarized)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sandix34&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandix34&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandix34&theme=solarized) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandix34&theme=solarized)
 
-[linkedin]: https://www.linkedin.com/in/sandrinezoccadev
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandix34&theme=solarized) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandix34&theme=solarized&utcOffset=8)

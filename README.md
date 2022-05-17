@@ -1,12 +1,9 @@
 ![counter](https://enzuieebp3gfvf4.m.pipedream.net)
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello <𝚌𝚘𝚍𝚎𝚛𝚜/></h1>
-
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
 <br/>
 
-#### - 🎓 Student at [Studi Digital Campus](https://www.studi.fr/formation/code-developpement/graduate-developpeur-angular)
+
 
 #### - 👨🏻‍💻 Mostly Used Languages and Tools :
 

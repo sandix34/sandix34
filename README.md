@@ -1,6 +1,6 @@
 ![counter](https://enzuieebp3gfvf4.m.pipedream.net)
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello <𝚌𝚘𝚍𝚎𝚛𝚜/></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> Hello <𝚌𝚘𝚍𝚎𝚛𝚜/></h1>
 <br/>
 
 
